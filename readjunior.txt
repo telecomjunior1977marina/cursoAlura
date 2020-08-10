@@ -4,10 +4,9 @@ PROJETO README - TITULO CRIADO 09/08
 
 criando um SUBTITULO - ISSUE #2
 
+1- criando o primeiro paragrafo - ISSUE #3
 
-junior - criado o arquivo a subir no github
-telecomjunior1977 - linha adicionada dentro do github
-marina - adicionada essa linha tb
+
 
 inicio
 ====================================
